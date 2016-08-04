@@ -1,0 +1,15 @@
+{
+  "name": "hyperterm-initial-windows",
+  "version": "0.1.0",
+  "description": "Adds support to open a predefined number of windows on init.",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "initial",
+    "windows"
+  ],
+  "author": "Pablo Castillo <pcastillo@3nodos.com.ar> (http://www.3nodos.com.ar)",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
