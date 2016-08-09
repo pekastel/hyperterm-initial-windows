@@ -1,7 +1,7 @@
 {
   "name": "hyperterm-initial-windows",
-  "version": "0.1.0",
-  "description": "Adds support to open a predefined number of windows on init.",
+  "version": "0.1.1",
+  "description": "Adds support to open a predefined number of windows with a predefined position and size on init.",
   "main": "index.js",
   "keywords": [
     "hyperterm",
