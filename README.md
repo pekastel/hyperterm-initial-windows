@@ -1,6 +1,6 @@
 # `hyperterm-initial-windows`
 
-Adds support to open a predefined number of windows with a predefined position and size.
+Adds support to open a predefined number of windows with a predefined position and sizeon init.
 
 ![](https://raw.githubusercontent.com/wiki/pekastel/hyperterm-initial-windows/hyperterm-initial-windows.gif)
 
@@ -11,6 +11,7 @@ Adds support to open a predefined number of windows with a predefined position a
 - Change `config.initialWindows` to the desired number of windows to open on init, by default opens just one.
 - Set `config.initialWindowsPosition` to specify the position and size for each of the windows to create on init:
 
+```
     initialWindows: '3', 
 
     initialWindowsPosition: [
@@ -18,6 +19,7 @@ Adds support to open a predefined number of windows with a predefined position a
       {x: 0, y: 550, width: 900, height: 400},
       {x: 800, y: 0, width: 700, height: 500}
     ],
+```
 
 # license
 
