@@ -27,7 +27,7 @@ Adds support to open a predefined number of windows with a predefined position a
   }
 ```
 
-NOTE: Remember to place the options under `config`.
+NOTE: Remember to place the options under `config` section.
 
 # license
 
