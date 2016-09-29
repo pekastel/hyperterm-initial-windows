@@ -14,6 +14,8 @@ Adds support to open a predefined number of windows with a predefined position a
 # sample options
 
 ```
+  config: {
+    ...
     initialWindows: '3', 
 
     initialWindowsPosition: [
@@ -21,7 +23,11 @@ Adds support to open a predefined number of windows with a predefined position a
       {x: 0, y: 550, width: 900, height: 400},
       {x: 800, y: 0, width: 700, height: 500}
     ],
+    ...
+  }
 ```
+
+NOTE: Remember to place the options under `config`.
 
 # license
 
